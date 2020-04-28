@@ -1,1 +1,6 @@
--  injeccion de dependencias con awilix
+- Using a layer Arquitecture
+    https://medium.com/@priyalwalpita/software-architecture-patterns-layered-architecture-a3b89b71a057
+- Dependency injection using awilix in nodejs
+    https://en.wikipedia.org/wiki/Dependency_injection
+- Clean arquitecture using DDD
+    https://medium.com/design-and-tech-co/implementing-domain-driven-design-for-microservice-architecture-26eb0333d72e
