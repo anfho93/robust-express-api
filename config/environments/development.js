@@ -1,10 +1,11 @@
 module.exports = {
     PORT: process.env.PORT || 3000,
     DB: { // relational DB
-        user: 'root',
+        username: 'root',
         password: '',
         database: 'mydb_dev',
-        host: 'locahost',
-        dialect: 'mysql'
+        host: 'localhost',
+        dialect: 'mysql',
+        logging: false
     }
 }
