@@ -1,8 +1,8 @@
 
-class UserDTO {
+class TeacherDTO {
     id = 0;
     name = '';
     lastname = '';
 }
 
-module.exports = UserDTO;
+module.exports = TeacherDTO;
